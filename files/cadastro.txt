@@ -1,0 +1,8 @@
+
+nome: roberto
+nome;email;roberto@
+nome;roberto
+email;roberto@
+nome;roberto
+email;roberto@
+idade;22
